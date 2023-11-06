@@ -33,4 +33,8 @@ contract MyToken {
         emit Transfer(msg.sender, to, value);
         return true;
     }
+
+    //Test 1
+
+    //Test 2
 }
