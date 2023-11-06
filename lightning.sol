@@ -34,4 +34,6 @@ contract MyToken {
         return true;
     }
 
+    //fix 4
+
 }
