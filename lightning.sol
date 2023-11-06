@@ -34,12 +34,4 @@ contract MyToken {
         return true;
     }
 
-    //Test 1
-
-    //Test 2
-    
-    //Todo 1
-
-    //Todo 2
-    
 }
