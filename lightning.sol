@@ -36,4 +36,12 @@ contract MyToken {
 
     //fix 4
 
+    //fix 5
+
+    //fix 6
+
+    //fix 7
+
+    //fix 8
+
 }
